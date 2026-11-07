@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "phare": {
+      "type": "http",
+      "url": "https://mcp.phare.io/mcp"
+    }
+  }
+}

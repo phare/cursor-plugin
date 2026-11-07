@@ -1,0 +1,32 @@
+{
+  "name": "phare",
+  "displayName": "Phare",
+  "version": "1.0.0",
+  "description": "Check and manage the uptime monitors, incidents, maintenance windows and status pages of your Phare organization.",
+  "author": {
+    "name": "Phare",
+    "email": "support@phare.io"
+  },
+  "homepage": "https://phare.io/mcp",
+  "repository": "https://github.com/phare/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "phare",
+    "uptime",
+    "monitoring",
+    "incidents",
+    "status page",
+    "maintenance",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "phare",
+    "uptime-monitoring",
+    "incident-management",
+    "status-page",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
